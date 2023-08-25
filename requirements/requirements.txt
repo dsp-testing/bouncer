@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe requirements/requirements.in
 #
-certifi==2023.5.7
+certifi==2023.7.22
     # via
     #   -r requirements/requirements.in
     #   requests
@@ -37,7 +37,7 @@ plaster==1.0
     #   pyramid
 plaster-pastedeploy==0.7
     # via pyramid
-pyramid==2.0.1
+pyramid==2.0.2
     # via
     #   -r requirements/requirements.in
     #   h-pyramid-sentry
