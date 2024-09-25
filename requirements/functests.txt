@@ -84,7 +84,7 @@ pyramid==2.0.1
     #   -r requirements/requirements.txt
     #   h-pyramid-sentry
     #   pyramid-jinja2
-pyramid-jinja2==2.10
+pyramid-jinja2==2.10.1
     # via -r requirements/requirements.txt
 pytest==7.4.0
     # via -r requirements/functests.in
